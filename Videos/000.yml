@@ -1,153 +1,304 @@
 
-- text: Texan detective 98
-  video : wZNas-XJ48o
-- text: Texan detective 97
-  video : ZFclh__EnKk
-- text: Texan fights a serial killer 96
-  video : lFNNiKTD148
-- text: Texan escapes spain END 96 w/ NeoCranium
-  video : c4vsiYLX89k
-- text: Texan invades spain AGAIN 95
-  video : EbmJqulNPoY
-- text: Texan invades spain 94
-  video : i3G-Qf0dsRc
-- text: Dwarves fight off Mexicans 93
-  video : AmqIMKpp6q0
-- text: Texan expedition 92
-  video : zT4SeH3ztdg
-- text: Texan invades Spain 91
-  video : id9CzUYXOfI
-- text: back again 90
-  video : MBcOJRdUKw4
-- text: we're back baby 89
-  video : PGNKRQ1KnDg
-- text: f13 87
-  video : c_ip9N8cmPE
-- text: gains 85
-  video : wKG8Eq4rR18
-- text: multiple games late night 83
-  video : pW9d68PB-vY
-- text: vapire masquerade+speedrunners 81
-  video : 2HFF8olZmK8
-- text: STRAFE 76 bug fixes
-  video : 03uHdX7pxu0
-- text: STRAFE 75
-  video : _baer-2_gfQ
-- text: redneck 74 twitch integration
-  video : 0Sc9uQ-bIPk
-- text: immortal redneck 72
-  video : kKYvsyWXBqI
-- text: REDNECK RUGBURN 71
-  video : 1NW8-TgpFYI
-- text: games 70
-  video : obvq5ux2yN4
-- text: CULLING & KF2 68
-  video : _9Hj6b8ERhE
-- text: CULLING 67-PRIVATE MATCHES
-  video : zjcnXUBDJT0
-- text: spurs 66- maybe culling private matches
-  video : dO_XuG8c8EU
-- text: spurs 64
-  video : GHRw71H7Dl4
-- text: new spurs run, THEN CULLING UPDATE 63
-  video : M26PSG6V_Qg
-- text: walking feels 62
-  video : Qj1irOPr3Zg
-- text: super hero cowboy 61
-  video : t_o6XKs7V8Q
-- text: games 60
-  video : 1Ht-oBzDGc0
-- text: spurs, then games 59
-  video : DzD0vkvTktk
-- text: Business, then maybe spurs 58
-  video : rZQ4K_sCc6k
-- text: spurs 57
-  video : 4QI5gv4tCFU
-- text: games n such 56
-  video : eGDPviDqMdA
-- text: DLC spurs cont 55
-  video : DUmDYIv7jdw
-- text: more DLC spurs 54
-  video : 50qRqy9Pv7g
-- text: DLC spurs 53
-  video : exomvtA7Me0
-- text: spurs and video discussion 52
-  video : dfKjh9lPMdY
-- text: spurs then games 51 saved the run
-  video : MwQXWur_BPI
-- text: SPURS 50 spoilers=ban
-  video : R3i9O09U-jY
-- text: I like vegas 49
-  video : nUho76WLJaw
-- text: late night new vegas 48
-  video : mDIHD0xdUgs
-- text: GARFIELD KART 47
-  video : CHv_ok-0yLI
-- text: gaems 46
-  video : Vf3zPBL-b3Q
-- text: Sub Rosa 45
-  video : bSrfAjyJ67Y
-- text: games 44
-  video : DMG35FlK7dU
-- text: Smite 43
-  video : YViWG1YKTEo
-- text: Dead By Disconnect 41
-  video : wJc-UknkC00
-- text: Sub Rosa 40
-  video : Ex-RYjTfduw
-- text: Delver mods 39
-  video : BGl7lt7kqeY
-- text: games with Sir Cracker bulb 38
-  video : BgLo9XsfUZo
-- text: buisiness sequel 37
-  video : R_8hAo9qWxk
-- text: a lot of different games 36
-  video : LLYETMm72c0
-- text: Walking Dead new frontier ep3 35
-  video : S6F89f0QR2c
-- text: Walking Dead new frontier QUICK 34
-  video : 7VbGp8Tx6Co
-- text: BUSINESS 31
-  video : PsxK7r_BtyE
-- text: last one forever. 29
-  video : eD7eV2TR-rk
-- text: Space
-  video : Lx1aQAV0kL8
-- text: Fighting like a man 27
-  video : 9vPChB1AxnU
-- text: games 26
-  video : raaOIilmH20
-- text: The Culling- Real Talk OFFENSIVE 25
-  video : _aXhGfDMDJk
-- text: Speedrunners baby! 23
-  video : i7mhwJ_o3Kk
-- text: Charity-beating the bullets past-getting Hoxton back! 24
-  video : mmi78PjRgWU
-- text: Debating Twitch charity 22
-  video : cLMHZDK80CY
-- text: THERE YOU ARE, WE GOT HIM 21
-  video : 3P0WIwPgSdQ
-- text: im gonna find that damn bullet 19
-  video : zBxGdDhBtqY
-- text: WHERE'S THAT CAPED DOUCHE 20
-  video : 8cg8-jawF3Y
-- text: TRICKED 18 1/2
-  video : yVyGNLjI1g8
-- text: running fast with D-dog 17
-  video : 84S_ttwR4Vg
-- text: fucking weebs 18
-  video : sNsaBrxb-Rs
-- text: nvm no gungeon, running with Derp 16
-  video : WC8R48523ZE
-- text: we're gonna find that damn bullet 15
-  video : f0PdADmY6WY
-- text: TEMPLARS UNITE 13
-  video : ikFOHfc6udU
-- text: I FORGOT ENTER THE GUNGEON 14
-  video : jyK77n40FOw
-- text: FUCK EVERYTHING 12
-  video : OmZJo8EO7H0
-- text: I have a problem 11
-  video : aR7cMDeeJwc
-- text: WE'RE DONE WITH DELVER 10
-  video : U4AcTCg2ENQ
+-   stream : 98
+    title : Texan Detective
+    video : wZNas-XJ48o
+
+-   stream : 97
+    title : Texan detective
+    video : ZFclh__EnKk
+
+-   stream : 96
+    title : Texan fights a serial killer
+    video : lFNNiKTD148
+
+-   stream : 96
+    title : Texan escapes spain END w/ NeoCranium
+    video : c4vsiYLX89k
+
+-   stream : 95
+    title : Texan invades spain AGAIN
+    video : EbmJqulNPoY
+
+-   stream : 94
+    title : Texan invades spain
+    video : i3G-Qf0dsRc
+
+-   stream : 93
+    title : Dwarves fight off Mexicans
+    video : AmqIMKpp6q0
+
+-   stream : 92
+    title : Texan expedition
+    video : zT4SeH3ztdg
+
+-   stream : 91
+    title : Texan invades Spain
+    video : id9CzUYXOfI
+
+-   stream : 90
+    title : back again
+    video : MBcOJRdUKw4
+
+-   stream : 89
+    title : we're back baby
+    video : PGNKRQ1KnDg
+
+-   stream : 87
+    title : 'f13'
+    video : c_ip9N8cmPE
+
+-   stream : 85
+    title : gains
+    video : wKG8Eq4rR18
+
+-   stream : 83
+    title : multiple games late night
+    video : pW9d68PB-vY
+
+-   stream : 81
+    title : vapire masquerade+speedrunners
+    video : 2HFF8olZmK8
+
+-   stream : 76
+    title : STRAFE - bug fixes
+    video : 03uHdX7pxu0
+
+-   stream : 75
+    title : STRAFE
+    video : _baer-2_gfQ
+
+-   stream : 74
+    title : redneck - twitch integration
+    video : 0Sc9uQ-bIPk
+
+-   stream : 72
+    title : immortal redneck
+    video : kKYvsyWXBqI
+
+-   stream : 71
+    title : REDNECK RUGBURN
+    video : 1NW8-TgpFYI
+
+-   stream : 70
+    title : games
+    video : obvq5ux2yN4
+
+-   stream : 68
+    title : CULLING & KF2
+    video : _9Hj6b8ERhE
+
+-   stream : 67
+    title : CULLING -PRIVATE MATCHES
+    video : zjcnXUBDJT0
+
+-   stream : 66
+    title : spurs - maybe culling private matches
+    video : dO_XuG8c8EU
+
+-   stream : 64
+    title : spurs
+    video : GHRw71H7Dl4
+
+-   stream : 63
+    title : new spurs run, THEN CULLING UPDATE
+    video : M26PSG6V_Qg
+
+-   stream : 62
+    title : walking feels
+    video : Qj1irOPr3Zg
+
+-   stream : 61
+    title : super hero cowboy
+    video : t_o6XKs7V8Q
+
+-   stream : 60
+    title : games
+    video : 1Ht-oBzDGc0
+
+-   stream : 59
+    title : spurs, then games
+    video : DzD0vkvTktk
+
+-   stream : 58
+    title : Business, then maybe spurs
+    video : rZQ4K_sCc6k
+
+-   stream : 57
+    title : spurs
+    video : 4QI5gv4tCFU
+
+-   stream : 56
+    title : games n such
+    video : eGDPviDqMdA
+
+-   stream : 55
+    title : DLC spurs cont
+    video : DUmDYIv7jdw
+
+-   stream : 54
+    title : more DLC spurs
+    video : 50qRqy9Pv7g
+
+-   stream : 53
+    title : DLC spurs
+    video : exomvtA7Me0
+
+-   stream : 52
+    title : spurs and video discussion
+    video : dfKjh9lPMdY
+
+-   stream : 51
+    title : spurs then games
+    video : MwQXWur_BPI
+
+-   stream : 50
+    title : SPURS 50 spoilers=ban
+    video : R3i9O09U-jY
+
+-   stream : 49
+    title : I like vegas
+    video : nUho76WLJaw
+
+-   stream : 48
+    title : late night new vegas
+    video : mDIHD0xdUgs
+
+-   stream : 47
+    title : GARFIELD KART
+    video : CHv_ok-0yLI
+
+-   stream : 46
+    title : gaems
+    video : Vf3zPBL-b3Q
+
+-   stream : 45
+    title : Sub Rosa
+    video : bSrfAjyJ67Y
+
+-   stream : 44
+    title : games
+    video : DMG35FlK7dU
+
+-   stream : 43
+    title : Smite
+    video : YViWG1YKTEo
+
+-   stream : 41
+    title : Dead By Disconnect
+    video : wJc-UknkC00
+
+-   stream : 40
+    title : Sub Rosa
+    video : Ex-RYjTfduw
+
+-   stream : 39
+    title : Delver mods
+    video : BGl7lt7kqeY
+
+-   stream : 38
+    title : games with Sir Cracker bulb
+    video : BgLo9XsfUZo
+
+-   stream : 37
+    title : buisiness sequel
+    video : R_8hAo9qWxk
+
+-   stream : 36
+    title : a lot of different games
+    video : LLYETMm72c0
+
+-   stream : 35
+    title : Walking Dead new frontier ep3
+    video : S6F89f0QR2c
+
+-   stream : 34
+    title : Walking Dead new frontier QUICK
+    video : 7VbGp8Tx6Co
+
+-   stream : 31
+    title : BUSINESS
+    video : PsxK7r_BtyE
+
+-   stream : 29
+    title : last one forever.
+    video : eD7eV2TR-rk
+
+-   stream : 28
+    title : Space
+    video : Lx1aQAV0kL8
+
+-   stream : 27
+    title : Fighting like a man
+    video : 9vPChB1AxnU
+
+-   stream : 26
+    title : games
+    video : raaOIilmH20
+
+-   stream : 25
+    title : The Culling- Real Talk OFFENSIVE
+    video : _aXhGfDMDJk
+
+-   stream : 24
+    title : Charity-beating the bullets past-getting Hoxton back!
+    video : mmi78PjRgWU
+
+-   stream : 23
+    title : Speedrunners baby!
+    video : i7mhwJ_o3Kk
+
+-   stream : 22
+    title : Debating Twitch charity
+    video : cLMHZDK80CY
+
+-   stream : 21
+    title : THERE YOU ARE, WE GOT HIM
+    video : 3P0WIwPgSdQ
+
+-   stream : 20
+    title : WHERE'S THAT CAPED DOUCHE
+    video : 8cg8-jawF3Y
+
+-   stream : 19
+    title : im gonna find that damn bullet
+    video : zBxGdDhBtqY
+
+-   stream : 18
+    title : fucking weebs
+    video : sNsaBrxb-Rs
+
+-   stream : 18
+    title : TRICKED
+    video : yVyGNLjI1g8
+
+-   stream : 17
+    title : running fast with D-dog
+    video : 84S_ttwR4Vg
+
+-   stream : 16
+    title : nvm no gungeon, running with Derp
+    video : WC8R48523ZE
+
+-   stream : 15
+    title : we're gonna find that damn bullet
+    video : f0PdADmY6WY
+
+-   stream : 14
+    title : I FORGOT ENTER THE GUNGEON
+    video : jyK77n40FOw
+
+-   stream : 13
+    title : TEMPLARS UNITE
+    video : ikFOHfc6udU
+
+-   stream : 12
+    title : FUCK EVERYTHING
+    video : OmZJo8EO7H0
+
+-   stream : 11
+    title : I have a problem
+    video : aR7cMDeeJwc
+
+-   stream : 10
+    title : WE'RE DONE WITH DELVER
+    video : U4AcTCg2ENQ
