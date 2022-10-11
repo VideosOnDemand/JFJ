@@ -43,3 +43,20 @@ The structure would be
 ```
 
 <br>
+<br>
+
+## Licensing
+
+The video dataset is licensed under the **[Unlicense]**.
+
+Game previews belong to their respective owners.
+
+Everything else is licensed under **[AGPLv3]**.
+
+<br>
+
+
+<!----------------------------------------------------------------------------->
+
+[Unlicense]: LICENSE-DATASET
+[AGPLv3]: LICENSE
