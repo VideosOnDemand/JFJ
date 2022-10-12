@@ -14,7 +14,7 @@ const { clear , log } = console;
 const root = join(dirname(fromFileUrl(import.meta.url)),'..');
 
 const combined = 
-    join('Videos','Combined.json');
+    join('docs','Streams.json');
 
 const path = (filename) =>
     join(root,'Videos',`${ filename }.yml`);
