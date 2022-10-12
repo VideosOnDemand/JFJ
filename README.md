@@ -8,8 +8,6 @@
 
 ## Todo
 
--   Clean all remaining data
-
 -   Write Markdown generator
 
 -   Integrate with offline search
