@@ -29,19 +29,26 @@ await loadPage();
 
 const preview = document.querySelector('#streams');
 
-for(const stream of streams)
-    addPreview(stream);
+addDefaults();
+
+
 
 
 const input = document.querySelector('#search > input');
 
 input.addEventListener('input',() => {
     
-    const results = fuse.search(input.value);
+    const { value } = input;
     
-    for(const element of preview.children)
-        element.remove();
-        
+    clearPreview();
+    
+    if(value.length < 1){
+        addDefaults();
+        return;
+    }
+    
+    const results = fuse.search(value);
+    
     for(const result of results)
         addPreview(result.item);
 })
@@ -49,13 +56,31 @@ input.addEventListener('input',() => {
 
 function addPreview ( stream ){
     
-    const element = document.createElement('div');
+    const element = document.createElement('button');
     
     element.className = `
         box-content rounded-md h-64 w-40 bg-red-50
         hover:cursor-pointer hover:bg-red-100
-        ease-in-out duration-100
+        ease-in-out duration-100 focus:outline-red-100
+        outline-none
     `;
     
+    const number = document.createElement('div');
+    
+    number.className = 'text-4xl font-bold text-white'
+    number.innerText = stream.stream;
+    
+    element.appendChild(number);
+    
     preview.appendChild(element);
+}
+
+function addDefaults (){
+    for(const stream of streams)
+        addPreview(stream);
+}
+
+function clearPreview (){
+    for(const element of preview.children)
+        element.remove();
 }
