@@ -8,9 +8,7 @@
 
 ## Todo
 
--   Write Markdown generator
-
--   Integrate with offline search
+-   Add stream preview info & link
 
 <br>
 <br>
