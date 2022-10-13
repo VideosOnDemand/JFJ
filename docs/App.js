@@ -48,7 +48,9 @@ input.addEventListener('input',() => {
         return;
     }
     
-    const results = fuse.search(value);
+    let results = fuse.search(value);
+
+    log(results);
     
     for(const result of results)
         addPreview(result.item);
@@ -57,16 +59,26 @@ input.addEventListener('input',() => {
 
 function addPreview ( stream ){
     
-    const element = document.createElement('button');
+    const element = document.createElement('div');
     
-    element.className = 'box-content rounded-md h-64 w-40 bg-red-50 hover:cursor-pointer hover:bg-red-100 ease-in-out duration-100 focus:outline-none outline-none';
+    element.className = 'box-content rounded-md h-64 w-40 bg-red-50 hover:cursor-pointer hover:bg-red-100 ease-in-out duration-100 focus:outline-none outline-none p-2 relative flex items-center justify-center';
+    
     
     const number = document.createElement('div');
     
-    number.className = 'text-4xl font-bold text-white'
+    number.className = 'text-3xl font-bold box-border top-4 left-4 w-fit h-fit text-white inset-1 absolute pointer-events-none '
     number.innerText = stream.stream;
     
     element.appendChild(number);
+    
+    
+    const title = document.createElement('div');
+    
+    title.className = 'text-xl font-medium w-fit h-fit text-[#583011] opacity-50 pointer-events-none text-center'
+    title.innerText = stream.title;
+
+    element.appendChild(title);
+    
     
     preview.appendChild(element);
     
@@ -81,8 +93,7 @@ function addDefaults (){
 }
 
 function clearPreview (){
-    for(const element of preview.children)
-        element.remove();
+    preview.innerHTML = '';
 }
 
 function openYoutube ( videoId ){
