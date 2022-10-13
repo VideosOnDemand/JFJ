@@ -8,7 +8,9 @@
 
 ## Todo
 
--   Add stream preview info
+-   Extract games played in each stream
+
+-   Add game previews for streams
 
 <br>
 <br>
