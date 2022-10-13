@@ -8,7 +8,7 @@
 
 ## Todo
 
--   Add stream preview info & link
+-   Add stream preview info
 
 <br>
 <br>
