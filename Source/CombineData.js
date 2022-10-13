@@ -14,7 +14,7 @@ const { clear , log } = console;
 const root = join(dirname(fromFileUrl(import.meta.url)),'..');
 
 const combined = 
-    join('docs','Streams.json');
+    join(root,'docs','Streams.json');
 
 const path = (filename) =>
     join(root,'Videos',`${ filename }.yml`);
@@ -22,7 +22,7 @@ const path = (filename) =>
 
 let data = [];
 
-for(let n = 0;n <= 1100;n += 100){
+for(let n = 1100;n >= 0;n -= 100){
 
     const name = path(`${ n }`.padStart(3,'0'));
 

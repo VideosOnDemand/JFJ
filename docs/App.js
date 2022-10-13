@@ -3,6 +3,7 @@ import loadPage from 'Loaded'
 import Fuse from 'Fuse'
 
 const { parse } = JSON;
+const { open } = window;
 const { log } = console;
 
 const response = await fetch('Streams.json');
@@ -58,12 +59,7 @@ function addPreview ( stream ){
     
     const element = document.createElement('button');
     
-    element.className = `
-        box-content rounded-md h-64 w-40 bg-red-50
-        hover:cursor-pointer hover:bg-red-100
-        ease-in-out duration-100 focus:outline-red-100
-        outline-none
-    `;
+    element.className = 'box-content rounded-md h-64 w-40 bg-red-50 hover:cursor-pointer hover:bg-red-100 ease-in-out duration-100 focus:outline-none outline-none';
     
     const number = document.createElement('div');
     
@@ -73,6 +69,10 @@ function addPreview ( stream ){
     element.appendChild(number);
     
     preview.appendChild(element);
+    
+    
+    element.addEventListener('click',() => 
+        openYoutube(stream.video));
 }
 
 function addDefaults (){
@@ -83,4 +83,8 @@ function addDefaults (){
 function clearPreview (){
     for(const element of preview.children)
         element.remove();
+}
+
+function openYoutube ( videoId ){
+    open(`https://www.youtube.com/watch?v=${ videoId }`,'_blank');
 }
