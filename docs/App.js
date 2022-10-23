@@ -18,7 +18,7 @@ const searchOptions = {
     includeScore : true ,
     shouldSort : true ,
     threshold : 0.3 ,
-    keys : [ 'title' ]
+    keys : [ 'title' , 'games' ]
 }
 
 
@@ -50,7 +50,7 @@ input.addEventListener('input',() => {
     
     let results = fuse.search(value);
 
-    log(results);
+    // log(results);
     
     for(const result of results)
         addPreview(result.item);
@@ -74,8 +74,13 @@ function addPreview ( stream ){
     
     const title = document.createElement('div');
     
+    let text = stream.title ?? stream.games;
+    
+    if(Array.isArray(text))
+        text = text.join(', ');
+    
     title.className = 'text-xl font-medium w-fit h-fit text-[#583011] opacity-50 pointer-events-none text-center'
-    title.innerText = stream.title;
+    title.innerText = text;
 
     element.appendChild(title);
     

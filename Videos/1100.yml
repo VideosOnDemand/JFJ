@@ -1,75 +1,108 @@
 
+-   stream : 148
+    video  : 1yxMBbziI38
+    games  : 'Dragon Ball Z: The Breakers'
+
+-   stream : 147
+    video  : _2sMv-MgH78
+    games  : 'Dragon Ball Z: The Breakers'
+    
+-   stream : 146
+    video  : n09v73vLwtg
+    games  : 'Dragon Ball Z: The Breakers'
+
+-   stream : 145
+    video  : GSnEPh8U3Dw
+    games  : 'Warhammer: Darktide'
+
+-   stream : 144
+    video  : y9klYZsA5_o
+    games  : 'Warhammer: Darktide'
+    
+-   stream : 143
+    video  : K5jgWaKfpLY
+    games  : Fallout 76
+
+-   stream : 142
+    video  : gqGhftD7JQM
+    games  : Fallout 76
+
+-   stream : 141
+    video  : tfa55-GNpp8
+    games  : Fallout 76
+
 -   stream : 1140
-    title  : Fallout 76 - copyright
     video  : j48NP7Ugbhw
-
--   stream : 1140
-    title  : Fallout 76 - //INTERNET PROBLEMS//
-    video  : m_hJtDNWzro
-
--   stream : 1140
-    title  : Fallout 76 - //INTERNET PROBLEMS//
-    video  : t7KOEd8cgbU
+    games  : Fallout 76
 
 -   stream : 1139
-    title  : GROUNDED - Bugs
     video  : 2XFaDcUvfGo
+    games  : Grounded
 
 -   stream : 1139
-    title  : GROUNDED - Bugs
     video  : VIuw5RIil0k
-
+    games  : Grounded
+    
 -   stream : 1138
-    title  : GROUNDED - Bugs
     video  : eQv8iTwVknM
+    games  : Grounded
 
 -   stream : 1137
-    title  : GROUNDED - Rare Sunday stream.
     video  : rV8L2H1BbY0
+    games  : Grounded
 
 -   stream : 1136
-    title  : GROUNDED
     video  : 3KVmGRDVJZE
-
--   stream : 1002
-    title  : GROUNDED - 135
-    video  : UdC2UcFxcTw
+    games  : Grounded
 
 -   stream : 1135
-    title  : BONELAB - GROUNDED
+    video  : UdC2UcFxcTw
+    games  : Grounded
+    
+-   stream : 1135
     video  : h5WHy6lRFSM
+    games  :
+        -   BoneLab
+        -   Gounded
 
 -   stream : 1134
-    title  : BONELAB - WE SEARCH FOR RADIO BUDDY'S LITTLE BROTHER
     video  : onEYEIEP-gU
+    games  : BoneLab
 
 -   stream : 1133
-    title  : GROUNDED
     video  : 9uxQGr3gAlM
+    games  : Grounded
 
 -   stream : 1132
-    title  : Dead Rising 3
     video  : Cj0GEEkzadA
+    games  : Dead Rising 3
 
 -   stream : 1131
-    title  : Dead Rising 3
     video  : -J4S4Ud3It4
+    games  : Dead Rising 3
 
 -   stream : 1130
-    title  : Retail Royale Official Tournament EU+NA - Prize Pool 1000$
+    title  : Official Tournament EU+NA - Prize Pool 1000$
     video  : 9PDKYrfcRgM
+    games  : Retail Royale
 
 -   stream : 1129
-    title  : Chivalry 2 - Peglin
     video  : YmwbAoznBo0
+    games  :
+        -   Chivalry 2
+        -   Peglin
 
 -   stream : 1128
-    title  : CoD MW2 beta - RumbleVerse
     video  : dSDfGn4Qyjw
+    games  :
+        -   CoD MW2 Beta
+        -   RumbleVerse
 
 -   stream : 1127
-    title  : Isonzo - Chivalry 2
     video  : YUbvc4Zpe-Y
+    games  : 
+        -   Isonzo
+        -   Chivalry 2
 
 -   stream : 1126
     title  : Salt 2 - BPM - Comfy Tuesday
